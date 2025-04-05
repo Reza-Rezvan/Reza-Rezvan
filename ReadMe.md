@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on leveling up my coding skills 🚀🧋
+I’m currently working on leveling up my skills 🚀🧋
 
 
 ## 🌐 Socials:
