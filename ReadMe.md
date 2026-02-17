@@ -1,10 +1,10 @@
 # 💫 About Me:
-- Engineering perception in a world of noise. 
-- Training models by day. Breaking GPUs by night.
-
 - Computer Vision Engineer focused on building scalable AI systems.  
 Passionate about deep learning, model optimization, and deploying intelligent solutions from research to production.
 
+# :D
+- Engineering perception in a world of noise. 
+- Training models by day. Breaking GPUs by night.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-reza-rezvan-2730b1164/) 
