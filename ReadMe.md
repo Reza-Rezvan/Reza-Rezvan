@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently leveling up 🚀🧋
+Computer Vision Engineer focused on building scalable AI systems.  
+Passionate about deep learning, model optimization, and deploying intelligent solutions from research to production.
 
 
 ## 🌐 Socials:
