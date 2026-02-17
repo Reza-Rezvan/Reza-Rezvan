@@ -2,7 +2,7 @@
 - Computer Vision Engineer focused on building scalable AI systems.  
 Passionate about deep learning, model optimization, and deploying intelligent solutions from research to production.
 
-# :D
+# XQXDD
 - Engineering perception in a world of noise. 
 - Training models by day. Breaking GPUs by night.
 
